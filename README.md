@@ -17,3 +17,4 @@ Each folder has a README of what each thing does with specific instructions.
 * ChatToTrello:  Adds a chat command to add cards to a Trello Board.  (Note: IFTTT and Trello required)
 * DiamondHeist:  This is the channel point reward game that I have in my chat that lets people 'steal' a diamond (VIP Badge)
 * SimpleDeathCounter: Adds a simple command and some effects for tracking your deaths in games.
+* TwitchAlertTempaltes: Starter set of alerts for Twitch (follows, raids, subs, etc)
